@@ -1,3 +1,5 @@
+The task was done on October 2, 2023
+
 # Requirements
 1. Should be installed `node.js` with version 17.4.0
 2. Should be installed `npm` with vesrion 8.3.1
@@ -22,5 +24,3 @@
 Guide for resolving the problem (for development purpose only): https://alfilatov.com/posts/run-chrome-without-cors/
 
 2. The application was created with the CRA typescript template, but the customer changed the requirements during the test (TS -> JS).
-
-The task was done on October 2, 2023
